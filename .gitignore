@@ -1,3 +1,7 @@
 # project files
 .idea
 real-time-and-concurrent-systems.iml
+
+# UML diagram raw files
+*.mdj
+
